@@ -1,0 +1,67 @@
+#besti{
+  color:purple;
+  margin-top:20px;
+ 
+    
+}
+.bes{
+	color: purple;
+}
+
+#best{
+   background-color:#428000;
+   color:white;
+   width: 250px;
+   line-height: -20px;
+  margin-top: 20px;
+}
+.brad img{
+      width:244px;
+     margin-left: 4.5px;
+}
+ .under-line{
+    text-decoration:underline; 
+}
+
+.navbar{
+	background-color:#804000;
+	color:white !important;
+	text-align: center !important;
+	margin-top: 20px;
+	border-radius: 0px;
+}
+.navbar a{
+	text-align: center;
+    margin-left: 50px;
+    color: white;
+}
+
+
+
+	
+
+.brand{
+	margin-top: 40px;
+}
+.section ul{
+	list-style-type: none;
+}
+.section .row{
+	margin-top: 20px;
+}
+.section .fiv{
+	margin-top: 50px;
+	background-color:#b8c468 
+}
+
+.section .fiv, .section .fiv a{
+	background-color:88cc00; 
+	color:#fff; 
+	line-font:5px; 
+}
+#ehic{
+   color:purple; 
+}
+#ehi{
+  color:purple; 
+}

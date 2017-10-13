@@ -1,0 +1,22 @@
+#header{
+	background-color:orange;
+	color:yellow;
+}
+.col-xs-8{
+	background-color:#001a33;
+	color:yellow;
+    height:600px;	
+}
+.form-horzional{
+	margin-top:15px; 
+}
+#footer{
+	background-color:orange;
+	margin-left:0.4px;
+	margin-top:21px
+	height:55px;
+	padding-left:80%;
+}
+ #button{
+	 margin-top:10px;
+}

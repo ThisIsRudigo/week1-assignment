@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>MODERNA</title>
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<link rel="stylesheet" type="text/css" href="font-awesome-4.7.0/css/font-awesome.min.css">
+	</head>
+	<body>
+		<nav class="navbar">
+			<div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand" href="#">Moderna</a>
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#">HOME</a></li>
+						<li><a href="#">FEATURE</a></li>
+						<li><a href="#">PORTFOLIO</a></li>
+						<li><a href="#">BLOG</a></li>
+						<li><a href="#">CONTACTS</a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+		</nav>
+            <div class="container-fluid">
+              <div class="row">
+            	  <div class="col-xs-12">
+            	  </div>
+            	 <div class="col-xs-12">
+            	   <h2 class="text-center">Moderna HTML Business Template</h2>
+            	  </div>
+            	</div>
+            	 <div class="col-xs-12">
+            	  <div class="row">
+            	<div class="col-md-3 col-xs-12">
+            		 <h4 class="col-xs-12 text-center"> fully resposive</h4>
+            		 <div class="col-xs-12">
+            		    <i class="fa fa-desktop fa-3x"></i>
+            		 </div>
+            		 <p class="col-xs-12 text-center">A valid html is versionize htmlA valid html is versionize htmlA valid html is versionize htmls</p>
+            		 <p class="col-xs-12 text-center" href="#">LEARN MORE</p>
+            	</div>
+            	<div class="col-md-3 col-xs-12">
+            		 <h4 class="col-xs-12 text-center">modern style</h4>
+            		<div class="col-xs-12">
+            		 <i class="fa fa-pagelines fa-3x"></i>
+            		</div>
+            		<p class="col-xs-12 text-center">A valid html is versionize htmlA valid html is versionize htmlA valid html is versionize htmls</p>
+            		<p class="col-xs-12 text-center" href="#">LEARN MORE</p>
+            	</div>
+            	<div class="col-md-3 col-xs-12">
+            		 <h4 class="col-xs-12 text-center">customizable</h4>
+            		<div class="col-xs-12">
+            		  <i class="fa fa-edit fa-3x"></i>
+            		</div>
+            		<p class="col-xs-12 text-center">A valid html is versionize htmlA valid html is versionize htmlA valid is versionize htmls</p>
+            		<p class="col-xs-12 text-center" href="#">LEARN MORE</p>
+            	</div>
+            	<div class="col-md-3 col-xs-12">
+            		<h4 class="col-xs-12 text-center">valid html</h4>
+            		<div class="col-xs-12">
+            		<i class="fa fa-code fa-3x"></i>
+            		</div>
+            		<p class="col-xs-12 text-center">A valid htmls is versionize htmlA valid is versionize htmlsA valid is versionize htmls</p>
+            		<P class="col-xs-12 text-center" href="#">LEARN MORE</P>
+            	</diV>
+           	</div>	
+        </nav>
+	</body>
+</html>
